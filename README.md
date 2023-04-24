@@ -1,2 +1,2 @@
 # Aprendizagem-de-Maquina
-Algoritmos e exercícios da cadeira de aprendizagem de máquina, feitos em Jupyter Notebook, com ajuda da biblioteca numpy.
+Algoritmos e exercícios da cadeira de aprendizagem de máquina, feitos no Jupyter Notebook, com ajuda da biblioteca numpy.
